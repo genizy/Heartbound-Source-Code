@@ -1,0 +1,54 @@
+for (xx = 1; xx <= 1000; xx++)
+{
+    global.dialog_array[xx, 1] = " ";
+    global.dialog_array[xx, 2] = 0;
+}
+
+global.dialog_array[10, 1] = "%5_OU EST-IL ?$20_ $1_#OU EST LE MONSTRE ?!";
+global.dialog_array[10, 2] = 11;
+global.dialog_array[11, 1] = "%3_Emelio, attend...$40_ $1_%5_#C'est mon ami vert, pas un monstre !";
+global.dialog_array[11, 2] = 8;
+global.dialog_array[12, 1] = "%3_Ton heure est venue, #créature des ténèbres.";
+global.dialog_array[12, 2] = 11;
+global.dialog_array[13, 1] = "%2_A L'ATTAQUE !!!";
+global.dialog_array[13, 2] = 11;
+global.dialog_array[14, 1] = "%3_QU'EST-CE QUE TU FICHES ?!";
+global.dialog_array[14, 2] = 7;
+global.dialog_array[15, 1] = "%4_J'ai vaincu le monstre...?";
+global.dialog_array[15, 2] = 11;
+global.dialog_array[16, 1] = "%3_Emelio, t'as la tête plus dure #qu'ton marteau.$40_ $1_C'est pas un monstre ça.";
+global.dialog_array[16, 2] = 7;
+global.dialog_array[17, 1] = "%3_Je$10_... $1_Je vois...$40_ $1_#J'ai fait une terrible #erreur.";
+global.dialog_array[17, 2] = 11;
+global.dialog_array[18, 1] = "%6_Ca va.$40_ $1_#Il a pas frappé si fort que ça.";
+global.dialog_array[18, 2] = 1;
+global.dialog_array[19, 1] = "%6_Ca va.$40_ $1_#J'ai connu pire... crois-moi.";
+global.dialog_array[19, 2] = 1;
+global.dialog_array[20, 1] = "%6_Ca va.$40_ $1_#C'est la première fois que #je prend un coup pareil....";
+global.dialog_array[20, 2] = 1;
+global.dialog_array[21, 1] = "%6_Enfin$10_... $1_#Je dois retrouver Baron et rentrer #chez moi.";
+global.dialog_array[21, 2] = 1;
+global.dialog_array[22, 1] = "%5_Il y en a d'autres comme toi...?";
+global.dialog_array[22, 2] = 7;
+global.dialog_array[23, 1] = "Non, en fait, c'est mon$10_...";
+global.dialog_array[23, 2] = 1;
+global.dialog_array[24, 1] = "%Tu sais...$20_ $1_Pour être franc...$40_ $1_Je suis plus vraiment sûr de ce #qu'il est...";
+global.dialog_array[24, 2] = 1;
+global.dialog_array[25, 1] = "Quoiqu'il en soit, une part de lui #est ici et je dois la trouver...";
+global.dialog_array[25, 2] = 1;
+global.dialog_array[26, 1] = "%3_Bon, vous deux, laissez ça #et rentrez chez vous.$20_ $1_Compris ?";
+global.dialog_array[26, 2] = 7;
+global.dialog_array[27, 1] = "%4_Oui m'dame.";
+global.dialog_array[27, 2] = 8;
+global.dialog_array[28, 1] = "%3_Désolé pour le dérangement...";
+global.dialog_array[28, 2] = 11;
+global.dialog_array[29, 1] = "%3_Et toi...$40_ $1_%4_Fais gaffe en ville.$40_ $1_#%3_Tous des bêtes là-bas.";
+global.dialog_array[29, 2] = 7;
+global.dialog_array[30, 1] = "%5_Merci...$40_ $1_#Je m'en souviendrai.";
+global.dialog_array[30, 2] = 1;
+global.dialog_array[31, 1] = "%3_Emelio, attend...$40_ $1_%5_#C'est mon ami rayé, pas un #monstre !";
+global.dialog_array[31, 2] = 8;
+global.dialog_array[32, 1] = "Encore un obstacle.";
+global.dialog_array[32, 2] = 1;
+global.dialog_array[33, 1] = "Eh bien, allons-y.";
+global.dialog_array[33, 2] = 1;

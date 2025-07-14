@@ -1,0 +1,54 @@
+for (xx = 1; xx <= 1000; xx++)
+{
+    global.dialog_array[xx, 1] = " ";
+    global.dialog_array[xx, 2] = 0;
+}
+
+global.dialog_array[10, 1] = "%5_ГДЕ ОН?$20_ $1_#ГДЕ ЭТОТ МОНСТР?";
+global.dialog_array[10, 2] = 11;
+global.dialog_array[11, 1] = "%3_Emelio, погоди...$40_ $1_%5_#Это мой зелёный друг, #это не монстр!";
+global.dialog_array[11, 2] = 8;
+global.dialog_array[12, 1] = "%3_Твоё время подошло к концу, #существо тьмы.";
+global.dialog_array[12, 2] = 11;
+global.dialog_array[13, 1] = "%2_ПОЛУЧИ!!!";
+global.dialog_array[13, 2] = 11;
+global.dialog_array[14, 1] = "%3_КАКОГО ЧЁРТА ТЫ ДЕЛАЕШЬ?!";
+global.dialog_array[14, 2] = 7;
+global.dialog_array[15, 1] = "%4_Я завалил монстра...?";
+global.dialog_array[15, 2] = 11;
+global.dialog_array[16, 1] = "%3_Emelio, ты такой же тупой как #и твой топор.$40_ $1_Это не монстр.";
+global.dialog_array[16, 2] = 7;
+global.dialog_array[17, 1] = "%3_Я$10_... $1_Я понял...$40_ $1_#Я сделал серьезную ошибку.";
+global.dialog_array[17, 2] = 11;
+global.dialog_array[18, 1] = "%6_Я в порядке.$40_ $1_#Он не так сильно меня и ударил.";
+global.dialog_array[18, 2] = 1;
+global.dialog_array[19, 1] = "%6_Всё в порядке.$40_ $1_#Бывало и хуже... Поверь.";
+global.dialog_array[19, 2] = 1;
+global.dialog_array[20, 1] = "%6_Всё в порядке.$40_ $1_#Меня так сильно ещё никто не бил...";
+global.dialog_array[20, 2] = 1;
+global.dialog_array[21, 1] = "%6_В общем$10_... $1_#Мне нужно найти Baron'а и #возвращаться домой.";
+global.dialog_array[21, 2] = 1;
+global.dialog_array[22, 1] = "%5_Есть ещё такие же как ты...?";
+global.dialog_array[22, 2] = 7;
+global.dialog_array[23, 1] = "Прежде чем ты спросишь, он мой$10_...";
+global.dialog_array[23, 2] = 1;
+global.dialog_array[24, 1] = "%13_Ты знаешь...$20_ $1_Если честно...$40_ $1_#Я и сам не знаю что он такое...";
+global.dialog_array[24, 2] = 1;
+global.dialog_array[25, 1] = "В любом случае, часть его здесь #и мне нужно её найти...";
+global.dialog_array[25, 2] = 1;
+global.dialog_array[26, 1] = "%3_Так, вы двое, оставьте его в #покое возвращайтесь домой.$20_ $1_Ясно?";
+global.dialog_array[26, 2] = 7;
+global.dialog_array[27, 1] = "%4_Да, мэм.";
+global.dialog_array[27, 2] = 8;
+global.dialog_array[28, 1] = "%3_Извините за беспокойство...";
+global.dialog_array[28, 2] = 11;
+global.dialog_array[29, 1] = "%3_А ты...$40_ $1_%4_Будь осторожен в городе.$40_ $1_#%3_Они типичное стадо животных.";
+global.dialog_array[29, 2] = 7;
+global.dialog_array[30, 1] = "%5_Спасибо...$40_ $1_#Буду иметь в виду.";
+global.dialog_array[30, 2] = 1;
+global.dialog_array[31, 1] = "%3_Emelio, погоди...$40_ $1_%5_#Это мой полосатый друг, #это не монстр!";
+global.dialog_array[31, 2] = 8;
+global.dialog_array[32, 1] = "Больше проблем на моём пути.";
+global.dialog_array[32, 2] = 1;
+global.dialog_array[33, 1] = "Что ж, до встречи.";
+global.dialog_array[33, 2] = 1;

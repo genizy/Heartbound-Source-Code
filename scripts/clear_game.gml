@@ -1,0 +1,10 @@
+randomize();
+global.world_seed = string(random_get_seed());
+global.start_room = 13;
+global.start_x = 0;
+global.start_y = 0;
+global.player_hp_cur = 10;
+global.player_hp_max = 10;
+global.language_known = 0;
+storyline_vars();
+save_game();

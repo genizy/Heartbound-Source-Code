@@ -1,0 +1,51 @@
+for (xx = 1; xx <= 1000; xx++)
+{
+    global.dialog_array[xx, 1] = " ";
+    global.dialog_array[xx, 2] = 0;
+}
+
+global.dialog_array[1, 1] = "Hay un frasco de pepinillos rojos aquí.#  ¡Los pepinillos son repugnantes!#  Tómalos.";
+global.dialog_array[2, 1] = "Hay un borrador gigante en el cajón.$40_ $1_La #palabra 'lápiz' está escrita a un costado.$40_ $1_#Extraño.";
+global.dialog_array[3, 1] = "El cajón está atascado y no abre.";
+global.dialog_array[4, 1] = "Está lleno de$10_... $1_¿declaraciones de #impuestos?$40_ $1_Horrible...";
+global.dialog_array[5, 1] = "Una tediosa torre de libros de #financiamiento.";
+global.dialog_array[6, 1] = "Está lleno de garabatos de$10_... $1_#¿Hombres lagarto?$40_ $1_#¡Dí hola al piso, papel lagarto!";
+global.dialog_array[7, 1] = "Un montón de libros de financiamiento.";
+global.dialog_array[8, 1] = "El negro profundo de esta cosa parece #absorber toda la luz a su alrededor.";
+global.dialog_array[9, 1] = "Evaluación de las implicaciones #financieras de la administración #intermedia.";
+global.dialog_array[10, 1] = "¡Éstas no son plumas, sólo están dibujadas #en la mesa!";
+global.dialog_array[11, 1] = "Esta cosa parece muy afectuosa.$40_ $1_#Definitivamente no quiero acercarme.";
+global.dialog_array[12, 1] = "Letras blancas en papel rojo...$40_ $1_#¿Qué clase de monstruo hizo esto?";
+global.dialog_array[13, 1] = "Libros con los nombres de todos los #empleados del mes.$40_ $1_Siempre la misma #persona hasta hace poco.";
+global.dialog_array[14, 1] = "El dispositivo despierta con una feliz #tonada.";
+global.dialog_array[15, 1] = "Algunas carpetas dispersas con trozos de #papel por aquí.";
+global.dialog_array[16, 1] = "Una nota adhesiva solitaria está pegada en #el estante$10_...$40_ $1_¿Por qué?";
+global.dialog_array[17, 1] = "El dispensador de agua permanece inmóvil, #esperando oír algunas no antes contadas #historias de oficina.";
+global.dialog_array[18, 1] = "Pequeños papeles multicolores llenan el #tablero.$40_ $1_Las palabras parecen moverse #cuando intentas leerlas.";
+global.dialog_array[19, 1] = "Una calceta cuelga del tablero.$40_ $1_#¡Qué informativo!";
+global.dialog_array[20, 1] = "La perilla se agita pero la puerta #permanece inmóvil.";
+global.dialog_array[21, 1] = "Un pequeño teclado numérico está fijo en #el escritorio.";
+global.dialog_array[22, 1] = "%6_¿Dónde...$40_ $1_Dónde me encuentro...?";
+global.dialog_array[22, 2] = "1";
+global.dialog_array[23, 1] = "%6_¿Baron...?$40_ $1_¿Estás aquí...?";
+global.dialog_array[23, 2] = "1";
+global.dialog_array[25, 1] = "Viejo... no.";
+global.dialog_array[25, 2] = "1";
+global.dialog_array[26, 1] = "Un frasco de horrores se encuentra #almacenado en el cajón.";
+global.dialog_array[27, 1] = "El frasco de pepinillos se desvanece #cuando lo tocas.$40_ $1_¡Extraño!";
+global.dialog_array[28, 1] = "El cajón está vacío y sin viles pepinillos.#";
+global.dialog_array[29, 1] = "Una foto de un pirata está en el #interior.$40_ $1_Tiene un escrito extraño en ella.#$40_ $1_*2_Lavender Beard";
+global.dialog_array[30, 1] = "El primo pila de libros está resolviendo #cálculos mentales a gran velocidad.";
+global.dialog_array[31, 1] = "El sobrino pila de libros es un #malabarista de números certificado.";
+global.dialog_array[32, 1] = "Texto se desplaza rápidamente en la #pantalla.";
+global.dialog_array[33, 1] = "Cuatro de nosotros hay pero ninguno como #otro es.";
+global.dialog_array[34, 1] = "Nuestros números favoritos bloquean tu #camino y confunden tu pensamiento.";
+global.dialog_array[35, 1] = "Si te sientes demasiado cansado para #tratar de encontrarnos a todos.";
+global.dialog_array[36, 1] = "Siempre puedes darnos siete unos y #ponerte en marcha de inmediato.";
+global.dialog_array[37, 1] = "Suena un chasquido y la máquina se apaga.";
+global.dialog_array[38, 1] = "Ya no parece funcionar.";
+global.dialog_array[39, 1] = "El apellido de nuestro primero es Ochoa, #no es portero ni es anchoa.";
+global.dialog_array[40, 1] = "Para nuestro segundo el aseo es primordial #así que el flúor en su vida es escencial.";
+global.dialog_array[41, 1] = "Nuestro tercero el más joven es, apenas #mayor a nada es.";
+global.dialog_array[42, 1] = "El cuarto y último es nuestro primo y el #segundo más grande de sus hermanos es.";
+global.dialog_array[43, 1] = "¿Creíste que podrías pasarte de listo con #nosotros?$40_ $1_Que terrible error.$40_ $1_#Disfruta tu estadía, pequeño.";

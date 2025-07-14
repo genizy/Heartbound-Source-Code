@@ -1,0 +1,51 @@
+for (xx = 1; xx <= 1000; xx++)
+{
+    global.dialog_array[xx, 1] = " ";
+    global.dialog_array[xx, 2] = 0;
+}
+
+global.dialog_array[1, 1] = "Tem uma jarra de pepinos vermelhos.#  Pepino é nojento!#  Pegue eles.";
+global.dialog_array[2, 1] = "Uma única borracha gigante está em cima da #mesa.$40_ $1#A palavra 'lápis' está escrita na parte do #lado.$40_ $1_Estranho.";
+global.dialog_array[3, 1] = "A prateleira está emperrada e não vai #abrir.";
+global.dialog_array[4, 1] = "Está cheio de$10_... $1_Contas de imposto?$40_ $1_#Nojento...";
+global.dialog_array[5, 1] = "Uma tediosa torre de livros financeiros.";
+global.dialog_array[6, 1] = "Está cheio de desenhos bobos de$10_... $1_#Gente lagarto?$40_ $1_Diga olá para o chão #papel de lagarto!";
+global.dialog_array[7, 1] = "Uma monótona pilha de livros financeiros.";
+global.dialog_array[8, 1] = "O preto profundo dessa coisa parece #absorver toda a luz ao seu redor.";
+global.dialog_array[9, 1] = "Notas sobre as implicações financeiras de #gestão intermediária.";
+global.dialog_array[10, 1] = "Essas nem são canetas, elas só foram #desenhadas na mesa!";
+global.dialog_array[11, 1] = "Essa coisa parece bem agarrenta.$40_ $1_#Com certeza não quero chegar perto dela.";
+global.dialog_array[12, 1] = "Letras brancas em papel vermelho...$40_ $1_#Que tipo de monstro fez isso?";
+global.dialog_array[13, 1] = "Livros contando a história dos #funcionários do mês.$40_ $1_É sempre o mesmo #cara até recentemente.";
+global.dialog_array[14, 1] = "O dispositivo começa a ligar enquanto #sacode de forma alegre.";
+global.dialog_array[15, 1] = "Algumas pastas soltas com pedaços de papel  #jogados ao redor.";
+global.dialog_array[16, 1] = "Uma única nota grudenta colada na #mesa$10_...$40_ $1_Por quê?";
+global.dialog_array[17, 1] = "O bebedouro espera quietamente para #escutar as histórias não contadas #do escritório.";
+global.dialog_array[18, 1] = "Pequenos papéis coloridos cobrem o quadro #todo.$40_ $1_As palavras parecem mudar quando #você tenta lê-los.";
+global.dialog_array[19, 1] = "Uma meia nota está grudada no quadro.$40_ $1_#Que informativa!";
+global.dialog_array[20, 1] = "A maçaneta se move, mas a porta continua #no mesmo lugar.";
+global.dialog_array[21, 1] = "Um pequeno teclado está preso na mesa.";
+global.dialog_array[22, 1] = "%6_Onde...$40_ $1_Onde eu estou...?";
+global.dialog_array[22, 2] = "1";
+global.dialog_array[23, 1] = "%6_Baron...?$40_ $1_Você está aqui...?";
+global.dialog_array[23, 2] = "1";
+global.dialog_array[25, 1] = "Cara... não.";
+global.dialog_array[25, 2] = "1";
+global.dialog_array[26, 1] = "Uma jarra de pepinos está na prateleira.";
+global.dialog_array[27, 1] = "A jarra de pepinos evapora quando tocada.$40_ $1_#Estranho!";
+global.dialog_array[28, 1] = "A prateleira está vazia e sem nenhum #pepino.";
+global.dialog_array[29, 1] = "Uma foto de um pirata está aqui.$40_ $1_Ela tem inscrições estranhas nela.$40_ $1_*2_Lavender Beard";
+global.dialog_array[30, 1] = "Primo Torre de Livros está fazendo contas #de matemática.";
+global.dialog_array[31, 1] = "Sobrinho Torre de Livros é um criador de #números certificado .";
+global.dialog_array[32, 1] = "Um texto aparece rapidamente na tela.";
+global.dialog_array[33, 1] = "Nós somos em quatro, mas nenhum de nós é #igual.";
+global.dialog_array[34, 1] = "Nossos números favoritos bloqueiam seu #caminho e confundem a sua mente.";
+global.dialog_array[35, 1] = "Se você acha que não consegue competir e #perfere descançar o resto do dia.;";
+global.dialog_array[36, 1] = "Você poderia nos dar sete uns e seguir no #seu caminho.";
+global.dialog_array[37, 1] = "Algo clica e a maquina desliga.";
+global.dialog_array[38, 1] = "Não está mais funcionando.";
+global.dialog_array[39, 1] = "Dizem que o primeiro soldado é infinito, #Dizem que ele também gosta de biscoito.";
+global.dialog_array[40, 1] = "O segundo soldado tem uma nota quase #perfeita, Dizem que ele anda sempre ao #lado do primeiro soldado.";
+global.dialog_array[41, 1] = "Dizem que o terceiro soldado é o mais #novo, mesmo assim ele sempre ganha tudo.";
+global.dialog_array[42, 1] = "O quarto soldado é obcecado por Pitágoras, #dizem que ele quer até mudar seu nome para #hipotenusa.";
+global.dialog_array[43, 1] = "Você pensou que era mais esperto que nós?$40_ $1_#Você cometeu um erro terrível.$40_ $1_#Aproveite a sua estadia pequenino.";

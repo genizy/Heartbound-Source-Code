@@ -1,0 +1,54 @@
+for (xx = 1; xx <= 1000; xx++)
+{
+    global.dialog_array[xx, 1] = " ";
+    global.dialog_array[xx, 2] = 0;
+}
+
+global.dialog_array[10, 1] = "%5_¿DÓNDE ESTÁ?$20_ $1_#¿¡DÓNDE ESTÁ EL MONSTRUO!?";
+global.dialog_array[10, 2] = 11;
+global.dialog_array[11, 1] = "%3_Emelio, espera...$40_ $1_%5_#¡Es mi verdosoamigo, no un #monstruo!";
+global.dialog_array[11, 2] = 8;
+global.dialog_array[12, 1] = "%3_Tu tiempo se ha terminado criatura #de la oscuridad.";
+global.dialog_array[12, 2] = 11;
+global.dialog_array[13, 1] = "%2_¡¡¡EN GUARDIA!!!";
+global.dialog_array[13, 2] = 11;
+global.dialog_array[14, 1] = "%3_¿¡QUÉ DIABLOS ESTÁS HACIENDO!?";
+global.dialog_array[14, 2] = 7;
+global.dialog_array[15, 1] = "%4_¿Derribando al monstruo...?";
+global.dialog_array[15, 2] = 11;
+global.dialog_array[16, 1] = "%3_Emelio, tu cabeza es más dura #que tu martillo.$40_ $1_Esta cosa no #es un monstruo.";
+global.dialog_array[16, 2] = 7;
+global.dialog_array[17, 1] = "%3_Ya$10_... $1_Ya veo...$40_ $1_#Cometí un muy grande error.";
+global.dialog_array[17, 2] = 11;
+global.dialog_array[18, 1] = "%6_Estoy bien.$40_ $1_#Ni siquiera me golpeó tan fuerte.";
+global.dialog_array[18, 2] = 1;
+global.dialog_array[19, 1] = "%6_Estoy bien.$40_ $1_#He recibido peores... créeme.";
+global.dialog_array[19, 2] = 1;
+global.dialog_array[20, 1] = "%6_Estoy bien.$40_ $1_#Aunque nunca me habían golpeado tan fuerte...";
+global.dialog_array[20, 2] = 1;
+global.dialog_array[21, 1] = "%6_Pero bueno$10_... $1_#Tengo que encontrar a Baron y #regresar a casa.";
+global.dialog_array[21, 2] = 1;
+global.dialog_array[22, 1] = "%5_¿Entonces hay más como tú...?";
+global.dialog_array[22, 2] = 7;
+global.dialog_array[23, 1] = "Antes de que preguntes, él es mi$10_...";
+global.dialog_array[23, 2] = 1;
+global.dialog_array[24, 1] = "%13_Tú sabes...$20_ $1_Siendo honesto #contigo...$40_ $1_No sé lo que es ahora...";
+global.dialog_array[24, 2] = 1;
+global.dialog_array[25, 1] = "De todos modos, parte de él está #aquí y tengo que encontrarlo...";
+global.dialog_array[25, 2] = 1;
+global.dialog_array[26, 1] = "%3_Muy bien ustedes dos, dejen a #éste solo y vayan a casa.$20_ $1_#¿Entendido?";
+global.dialog_array[26, 2] = 7;
+global.dialog_array[27, 1] = "%4_Sí, señor.";
+global.dialog_array[27, 2] = 8;
+global.dialog_array[28, 1] = "%3_Disculpa las molestias...";
+global.dialog_array[28, 2] = 11;
+global.dialog_array[29, 1] = "%3_Y tú...$40_ $1_%4_Ten cuidado en la ciudad.$40_ $1_#%3_Son un montón de animales #de pocas pulgas los de allá #afuera.";
+global.dialog_array[29, 2] = 7;
+global.dialog_array[30, 1] = "%5_Gracias...$40_ $1_#Lo tendré en cuenta.";
+global.dialog_array[30, 2] = 1;
+global.dialog_array[31, 1] = "%3_Emelio, espera...$40_ $1_%5_#¡Es mi rayadoamigo, no un #monstruo!";
+global.dialog_array[31, 2] = 8;
+global.dialog_array[32, 1] = "Más obstáculos en mi camino.";
+global.dialog_array[32, 2] = 1;
+global.dialog_array[33, 1] = "Bien, aquí vamos.";
+global.dialog_array[33, 2] = 1;

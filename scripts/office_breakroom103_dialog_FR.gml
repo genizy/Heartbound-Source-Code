@@ -1,0 +1,51 @@
+for (xx = 1; xx <= 1000; xx++)
+{
+    global.dialog_array[xx, 1] = " ";
+    global.dialog_array[xx, 2] = 0;
+}
+
+global.dialog_array[1, 1] = "Il y a un pot de cornichons rouges dedans.#  Les cornichons c'est dégoûtant !#  Prendre les cornichons.";
+global.dialog_array[2, 1] = "Il y a une gomme géante dans le tiroir.$40_ $1_#Le mot 'crayon' est écrit sur le côté.$40_ $1_#Bizarre.";
+global.dialog_array[3, 1] = "Le tiroir est bloqué et refuse de #s'ouvrir.";
+global.dialog_array[4, 1] = "C'est rempli de$10_... $1_déclarations d'impôts ?$40_ $1_#Trop nul...";
+global.dialog_array[5, 1] = "Une grande pile de livres sur les finances.";
+global.dialog_array[6, 1] = "C'est recouvert de gribouillis de$10_... $1_#d'hommes-lézards ?$40_ $1_Dis bonjour au sol, #papier lézard !";
+global.dialog_array[7, 1] = "Un banal tas de livres sur les finances.";
+global.dialog_array[8, 1] = "L'écorce noir profond de cette plante #absorbe la lumière autour d'elle.";
+global.dialog_array[9, 1] = "Des notes sur les implications financières #de la gestion intermédiaire.";
+global.dialog_array[10, 1] = "Ce ne sont même pas des vrais stylos, #ils sont juste dessinés sur la table !";
+global.dialog_array[11, 1] = "Celle-ci a l'air un peu trop câline.$40_ $1_#Je ne devrais pas m'en approcher.";
+global.dialog_array[12, 1] = "Des lettres blanches sur du papier rouge...$40_ $1_#Quel genre de monstre a pu faire ça ?";
+global.dialog_array[13, 1] = "Des livres qui contiennent les noms de #tous les employés du mois.$40_ $1_C'est toujours #le même, jusqu'à récemment.";
+global.dialog_array[14, 1] = "L'appareil se réveille avec une musique #enjouée.";
+global.dialog_array[15, 1] = "Quelques classeurs et des bouts de papier #éparpillés.";
+global.dialog_array[16, 1] = "Un post-it solitaire est collé à #l'étagère$10_...$40_ $1_Pourquoi ?";
+global.dialog_array[17, 1] = "La fontaine d'eau reste immobile, #attendant d'entendre des commérages de #bureau.";
+global.dialog_array[18, 1] = "Des petits papiers de toutes les couleurs #recouvrent le tableau.$40_ $1_Les mots se troublent #quand tu esssaies de les lire.";
+global.dialog_array[19, 1] = "Une chaussette est accrochée au tableau.$40_ $1_#Quelle information utile !";
+global.dialog_array[20, 1] = "La poignée cliquette, mais la porte refuse #de bouger.";
+global.dialog_array[21, 1] = "Un pavé numérique est fixé au bureau.";
+global.dialog_array[22, 1] = "%6_Où...$40_ $1_Où suis-je...?";
+global.dialog_array[22, 2] = "1";
+global.dialog_array[23, 1] = "%6_Baron...?$40_ $1_Tu es là...?";
+global.dialog_array[23, 2] = "1";
+global.dialog_array[25, 1] = "Beurk... non.";
+global.dialog_array[25, 2] = "1";
+global.dialog_array[26, 1] = "Un pot d'horreurs est rangé dans le tiroir.";
+global.dialog_array[27, 1] = "Le pot de cornichons disparaît dès que #tu le touches.$40_ $1_#Bizarre !";
+global.dialog_array[28, 1] = "Le tiroir est vide, mais délivré des vils #cornichons.";
+global.dialog_array[29, 1] = "Il y a une photo de pirate à l'intérieur.$40_ $1_#De drôles de symboles sont inscrits dessus.$40_ $1_*2_Lavender Beard";
+global.dialog_array[30, 1] = "Le cousin tas de livres fait du calcul #mental.";
+global.dialog_array[31, 1] = "Le neveu tas de livres est un vrai #mathémagicien.";
+global.dialog_array[32, 1] = "Un texte défile rapidement sur l'écran.";
+global.dialog_array[33, 1] = "Nous sommes au nombre de quatre mais aucun #d'entre nous n'est le même.";
+global.dialog_array[34, 1] = "Nos nombres favoris tournent et s'emmêlent #dans ta tête comme un odieux problème.";
+global.dialog_array[35, 1] = "Si tu te sens trop fatigué pour tenter de #tous nous trouver.";
+global.dialog_array[36, 1] = "Tu peux nous donner sept uns pour #facilement nous contourner.";
+global.dialog_array[37, 1] = "On entend un 'clic' et la machine #s'éteint.";
+global.dialog_array[38, 1] = "Ca ne fonctionne plus.";
+global.dialog_array[39, 1] = "Notre premier adore les manèges, mais #principalement les attractions à #sensations.";
+global.dialog_array[40, 1] = "Notre second s'intéresse de près aux #ovipares, en particulier leur #reproduction.";
+global.dialog_array[41, 1] = "Notre troisième est passioné par des #envahisseurs nomades de l'Extrême #Orient.";
+global.dialog_array[42, 1] = "Notre quatrième et dernier aime les #chevaux, surtout ceux qui sont #malveillants.";
+global.dialog_array[43, 1] = "Tu croyais être plus intelligent que #nous ?$40_ $1_Quelle terrible erreur.$40_ $1_Profite #du séjour, petit.";
